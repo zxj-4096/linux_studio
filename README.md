@@ -6,3 +6,6 @@ about some linux commond and thinking
 
 包括虚拟机
 系统 备份
+
+nextcloud
+docker

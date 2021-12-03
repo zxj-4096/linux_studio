@@ -9,3 +9,6 @@ about some linux commond and thinking
 
 nextcloud
 docker
+
+base64 
+nc

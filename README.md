@@ -13,3 +13,6 @@ docker
 base64 
 nc
 gitlib
+ssh-keygen
+
+find xargs

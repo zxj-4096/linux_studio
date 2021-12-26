@@ -16,3 +16,14 @@ gitlib
 ssh-keygen
 
 find xargs
+
+aria2c
+btrfs
+xxd
+archlinux
+openwrt
+极路由
+dd
+dump
+tee
+:w !sudo tee %；

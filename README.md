@@ -27,3 +27,9 @@ dd
 dump
 tee
 :w !sudo tee %；
+
+linux启动过程综述
+linux 文件系统 剖析
+vim 转码
+修改启动顺序 
+lfs
